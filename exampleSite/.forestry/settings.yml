@@ -22,7 +22,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - blog-post
+  - authors
 - type: directory
   path: exampleSite/content/research
   label: Research
