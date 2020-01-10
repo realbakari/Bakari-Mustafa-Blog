@@ -1,7 +1,6 @@
 +++
 authors = ["Bakari Mustafa"]
 date = 2020-01-10T14:00:00Z
-draft = true
 excerpt = ""
 hero = ""
 timeToRead = 6
