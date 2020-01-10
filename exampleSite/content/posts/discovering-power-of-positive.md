@@ -6,7 +6,7 @@ image:
 tags: [Human Behaviour, Personal Development]
 ---
 
-{{< figure src="/images/paul-gilmore-km74CLco7qs-unsplash.jpg" title="Dave Herring" >}}
+{{< figure src="https://images.unsplash.com/photo-1501446529957-6226bd447c46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80" title="Paul Gilmore on Unsplash" >}}
 
 As human beings, we’re all capable of embracing change. Whether the body and mind crave a change of circumstances or whether we find ourselves forced to consider implementing changes into our lives, a significant number of us will resist the process and indeed the prospect of change and consequently work to fight it off.
 
