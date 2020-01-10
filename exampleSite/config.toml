@@ -82,5 +82,6 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
-   author = "author"
    categories = "categories"
+   education = "education"
+   books = "books"
