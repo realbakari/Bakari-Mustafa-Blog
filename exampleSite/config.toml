@@ -4,7 +4,7 @@ title = "Bakari Mustafa"
 theme = "ink"
 paginate = 5
 
-copyright = "© Bakari Mustafa"
+copyright = "2020 © Bakari Mustafa"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
