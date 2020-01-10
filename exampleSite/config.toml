@@ -55,6 +55,12 @@ name = "Github"
 icon = "github"
 url = "https://github.com/realbakari"
 
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/realbakari"
+
 [[params.social]]
 name = "RSS"
 icon = "rss"
