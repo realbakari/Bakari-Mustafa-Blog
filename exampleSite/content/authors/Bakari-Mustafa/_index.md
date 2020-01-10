@@ -1,5 +1,5 @@
 ---
-title: Brad Tiller
+title: Bakari Mustafa
 description: Technologist
 avatar: /uploads/MY3-IF7__400x400 copy-1.png
 social:
