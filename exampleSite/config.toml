@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "Bakari Mustafa"
+disqusShortname = "bakari"
 
 [params]
 	subtitle = "Thougts, Ideas and Insights."
