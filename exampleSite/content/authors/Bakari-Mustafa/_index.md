@@ -1,12 +1,12 @@
 ---
 title: Bakari Mustafa
-avatar: /uploads/MY3-IF7__400x400 copy-1.png
+avatar: "/uploads/MY3-IF7__400x400 copy-1.png"
 bio: Technologist
-social:  
-  - title: github     
-    url: https://github.com/realbakari
-  - title: github     
-    url: https://twitter.com/realbakari   
-  - title = linkedIn
-    url = "https://www.linkedin.com/in/realbakari/"
+social:
+- title: github
+  url: https://github.com/realbakari
+- title: twitter
+  url: https://twitter.com/realbakari
+- title = linkedIn url = "https://www.linkedin.com/in/realbakari/"
+
 ---
