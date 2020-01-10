@@ -1,7 +1,6 @@
 +++
 date = 2019-06-16T14:00:00Z
 description = "Jobs knew better than anyone how to get the most out of life. Here's his philosophy in his own words."
-draft = true
 tags = []
 thumbnail = "/uploads/steve-jobs1.jpg"
 title = "Steve Jobs’ 2005 Stanford Commencement Address"
