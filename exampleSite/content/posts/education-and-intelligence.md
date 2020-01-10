@@ -4,6 +4,9 @@ date: 2019-03-09T22:11:16+10:00
 description: It doesn’t matter if you have a genius IQ and a PhD in Whatever major you did or maybe doing, you can’t change anything.
 categories:
 - education
+Education:
+- Knowledge
+- intelligence
 ---
 
 {{< figure src="https://images.unsplash.com/photo-1473649085228-583485e6e4d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80" alt="Paul Gilmore on Unsplash" >}}
