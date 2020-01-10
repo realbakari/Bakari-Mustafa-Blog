@@ -2,7 +2,7 @@ baseURL = "https://blog.bakarimustafa.com/"
 languageCode = "en-us"
 title = "Bakari Mustafa"
 theme = "ink"
-paginate = 5
+paginate = 6
 
 copyright = "2020 © Bakari Mustafa"
 
@@ -10,7 +10,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-69813719-2"
 disqusShortname = "bakari"
 
 [params]
