@@ -30,3 +30,5 @@ fields:
   config:
     required: false
   label: social
+pages:
+- exampleSite/content/authors/Bakari-Mustafa/bakari-mustafa.md
