@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+disqusShortname = "Bakari Mustafa"
 
 [params]
 	subtitle = "Thougts, Ideas and Insights."
@@ -40,10 +40,10 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 3
 
 [[menu.main]]
 name = "Tags"
