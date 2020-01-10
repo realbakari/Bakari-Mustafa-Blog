@@ -16,11 +16,19 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
+  path: exampleSite/content/authors
+  label: authors
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
+- type: directory
   path: exampleSite/content/research
   label: Research
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 upload_dir: exampleSite/static/uploads
