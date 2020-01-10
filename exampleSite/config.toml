@@ -40,15 +40,15 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-#[[menu.main]]
-#name = "About"
-#url = "/about"
-#weight = 3
-
 [[menu.main]]
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[menu.main]]
+name = "categories"
+url = "/categories"
+weight = 3
 
 [[params.social]]
 name = "Instagram"
@@ -73,3 +73,4 @@ url = "/index.xml"
 [taxonomies]
    tag = "tags"
    author = "author"
+   categories = "categories"
