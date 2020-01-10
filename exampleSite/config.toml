@@ -14,7 +14,7 @@ googleAnalytics = "UA-69813719-2"
 disqusShortname = "bakari"
 
 [params]
-	subtitle = "Thougts, Ideas and Insights."
+	subtitle = "Thoughts and Ideas."
 
 	# Optional 64x64 avatar image.
 	avatar = ""
@@ -29,7 +29,7 @@ disqusShortname = "bakari"
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
-# Nav.
+# Navigation Menu
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -51,15 +51,19 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/realbakari"
-
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/realbakari"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/realbakari"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/realbakari"
 
 [[params.social]]
 name = "RSS"
