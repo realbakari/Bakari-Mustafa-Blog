@@ -1,7 +1,6 @@
 ---
 title: "Stop Worrying About What Others Think of You"
 date: 2019-06-15T15:33:00+10:00
-image:
 description: Fear is an instinctual human emotion designed to keep us aware and safe
 tags: [Confidence, Fear, Life Lesson]
 ---
@@ -11,12 +10,12 @@ tags: [Confidence, Fear, Life Lesson]
 To answer these questions, we must understand that the vast majority of our fears and anxieties amount to one thing: Loss.
 
 We fear:
-> Losing our youth.
-> Losing our social status.
-> Losing our money.
-> Losing control.
-> Losing our comfort.
-> Losing our life.
+1. Losing our youth.
+2. Losing our social status.
+3. Losing our money.
+4. Losing control.
+5. Losing our comfort.
+6. Losing our life.
 
 We also fear, perhaps more than anything else, being rejected by others. This kind of fear is widespread and debilitating if left unaddressed. Why is this fear so deeply entrenched in us? In ancient tribal times, being rejected from the safety of the community could have meant death. So it’s no wonder, really, that we want to be accepted by others.
 
