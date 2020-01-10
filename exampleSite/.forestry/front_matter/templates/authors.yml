@@ -1,16 +1,12 @@
 ---
-label: authors
+label: Author
 hide_body: true
 fields:
 - name: title
-  type: textarea
-  default: ''
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: title
+  label: Name
 - name: bio
   type: textarea
   default: ''
@@ -19,24 +15,27 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: bio
+  label: Bio
 - name: avatar
   type: file
   config:
     maxSize: 250
-  label: avatar
-- name: github
-  type: text
+  label: Avatar Image
+- name: social
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
   config:
-    required: false
-  label: Github
-- name: linkedin
-  type: text
-  config:
-    required: false
-  label: LinkedIn
-- name: twitter
-  type: text
-  config:
-    required: false
-  label: Twitter
+    min: 
+    max: 
+    labelField: 
+  label: Social Media
