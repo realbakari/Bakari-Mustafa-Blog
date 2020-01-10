@@ -1,5 +1,7 @@
 ---
 title: "20 Character Defining Quotes from Dragon Ball Super"
+authors:
+ - Bakari Mustafa
 date: 2020-01-04
 description: Dragon Ball Super delivers the same over-the-top action coupled with the characters we've come to know and love.
 tags: [Quotes]
