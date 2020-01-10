@@ -3,6 +3,7 @@ title: "Discovering the Power of Positive Transformation"
 author: "Bakari Mustafa"
 date: 2019-06-17T02:35:00+10:00
 image:
+description: As human beings, we’re all capable of embracing change.
 tags: [Human Behaviour, Personal Development]
 ---
 
