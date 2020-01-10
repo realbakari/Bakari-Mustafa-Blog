@@ -20,7 +20,7 @@ sections:
   label: authors
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 - type: directory
