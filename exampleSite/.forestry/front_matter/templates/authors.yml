@@ -25,10 +25,18 @@ fields:
   config:
     maxSize: 250
   label: avatar
-- name: social
+- name: github
   type: text
   config:
     required: false
-  label: social
-pages:
-- exampleSite/content/authors/Bakari-Mustafa/bakari-mustafa.md
+  label: Github
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: LinkedIn
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: Twitter
