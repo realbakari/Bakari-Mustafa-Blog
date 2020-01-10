@@ -1,4 +1,32 @@
 ---
 label: authors
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
+- name: bio
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: bio
+- name: avatar
+  type: file
+  config:
+    maxSize: 250
+  label: avatar
+- name: social
+  type: text
+  config:
+    required: false
+  label: social
