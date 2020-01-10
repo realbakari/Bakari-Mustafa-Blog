@@ -72,3 +72,4 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
+   author = "author"
