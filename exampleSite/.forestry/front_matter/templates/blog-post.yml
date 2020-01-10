@@ -11,6 +11,15 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: categories
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: categories
 - type: list
   name: tags
   label: tags
