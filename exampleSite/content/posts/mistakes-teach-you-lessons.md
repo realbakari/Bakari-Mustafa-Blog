@@ -1,3 +1,4 @@
+---
 title: "Every mistake you make is a step closer to your progress."
 date: 2020-01-10T12:24:19+00:00
 description: Mistakes teach you important lessons. Every time you make one, you are one step closer to your goal.
