@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- exampleSite/content/posts/data-structure-basics.md
 - exampleSite/content/privacy-policy.md
