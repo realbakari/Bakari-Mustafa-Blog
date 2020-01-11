@@ -2,7 +2,6 @@
 categories = "Python"
 date = 2020-01-11T14:00:00Z
 description = "If you wanna use Python as a Data Scientist, you have to know Python Data Structures - like lists, tuples and dictionaries!"
-draft = true
 tags = ["Data structure", "Python"]
 thumbnail = ""
 title = "Data Structure Basics"
