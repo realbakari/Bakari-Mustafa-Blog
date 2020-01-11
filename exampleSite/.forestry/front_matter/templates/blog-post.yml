@@ -29,4 +29,5 @@ fields:
     maxSize: 250
   label: Thumbnail
 pages:
+- exampleSite/content/posts/data-structure-basics.md
 - exampleSite/content/posts/steve-jobs-2005-stanford-commencement-address.md
