@@ -7,11 +7,9 @@ thumbnail = ""
 title = "What to Think About Machines That Think"
 
 +++
-{{< figure src="![](https://blog.bakarimustafa.com/uploads/1_yTvIjirCJMhiETsZ93ZiwA.jpeg)" >}}
-
 Today's Leading Thinkers on the Age of Machine Intelligence.
 
- This book explores the burgeoning field of artificial intelligence, commonly known as AI. It is a compilation of several hundred short essays by some of the planet’s top experts on the subject and quite a few non-affiliated rather smart people who have taken the time to think about the subject.
+This book explores the burgeoning field of artificial intelligence, commonly known as AI. It is a compilation of several hundred short essays by some of the planet’s top experts on the subject and quite a few non-affiliated rather smart people who have taken the time to think about the subject.
 
 ![](/uploads/cc-what-to-think-about-machines.jpg)
 
