@@ -2,7 +2,6 @@
 categories = "books"
 date = 2020-01-07T14:00:00Z
 description = "Computers only compute. They have no aspirations, and they won’t consider eternal questions or their own self-interests unless programmers design them to do so. Most believe that as computers grow smarter, so will humans. "
-draft = true
 tags = []
 thumbnail = ""
 title = "What to Think About Machines That Think"
