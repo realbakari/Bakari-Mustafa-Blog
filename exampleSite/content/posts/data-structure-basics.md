@@ -12,22 +12,23 @@ Lists
 
 Lists are mutable.
 
-```python
 # Create a list of countries, then print the results
+```python
 allies = ['USA','UK','France','New Zealand',
           'Australia','Canada','Poland']; allies
 ['USA', 'UK', 'France', 'New Zealand', 'Australia', 'Canada', 'Poland']
 ```
-```python
+
 # Print the length of the list
+```python
 len(allies)
 
 Output:
 7
 ```
 
-```python
 # Add an item to the list, then print the results
+```python
 allies.append('China'); allies
 
 Output:
@@ -41,8 +42,8 @@ Output:
  'China']
  ```
  
-```python
 # Sort list, then print the results
+```python
 allies.sort(); allies
 
 Output:
@@ -56,8 +57,8 @@ Output:
  'USA']
 ```
 
-```python
 # Reverse sort list, then print the results
+```python
 allies.reverse(); allies
 
 Output:
@@ -70,29 +71,32 @@ Output:
  'Canada',
  'Australia']
 ```
-```python
 # View the first item of the list
+```python
+
 allies[0]
 
 Output:
 'USA'
 ```
-```python
 # View the last item of the list
+```python
 allies[-1]
 
 Output:
 'Australia'
 ```
-```python
+
 # Delete the item in the list
+```python
 del allies[0]; allies
 
 Output:
 ['UK', 'Poland', 'New Zealand', 'France', 'China', 'Canada', 'Australia']
 ```
-```python
+
 # Add a numeric value to a list of strings
+```python
 allies.append(3442); allies
 
 Output:
