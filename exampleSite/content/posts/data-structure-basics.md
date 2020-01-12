@@ -21,12 +21,16 @@ allies = ['USA','UK','France','New Zealand',
 ```python
 # Print the length of the list
 len(allies)
+
+Output:
 7
 ```
 
 ```python
 # Add an item to the list, then print the results
 allies.append('China'); allies
+
+Output:
 ['USA',
  'UK',
  'France',
@@ -40,6 +44,8 @@ allies.append('China'); allies
 ```python
 # Sort list, then print the results
 allies.sort(); allies
+
+Output:
 ['Australia',
  'Canada',
  'China',
@@ -53,6 +59,8 @@ allies.sort(); allies
 ```python
 # Reverse sort list, then print the results
 allies.reverse(); allies
+
+Output:
 ['USA',
  'UK',
  'Poland',
@@ -65,20 +73,28 @@ allies.reverse(); allies
 ```python
 # View the first item of the list
 allies[0]
+
+Output:
 'USA'
 ```
 ```python
 # View the last item of the list
 allies[-1]
+
+Output:
 'Australia'
 ```
 ```python
 # Delete the item in the list
 del allies[0]; allies
+
+Output:
 ['UK', 'Poland', 'New Zealand', 'France', 'China', 'Canada', 'Australia']
 ```
 ```python
 # Add a numeric value to a list of strings
 allies.append(3442); allies
+
+Output:
 ['UK', 'Poland', 'New Zealand', 'France', 'China', 'Canada', 'Australia', 3442]
 ```
