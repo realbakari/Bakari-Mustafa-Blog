@@ -31,7 +31,13 @@ disqusShortname = "bakari"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
-
+	
+ [params.favicon]
+  # relURL is applied to path 
+  enable    = true
+  path      = "/img"
+  themeColor= "#000" 
+  
 # Navigation Menu
 #[[menu.main]]
 #name = "Home"
