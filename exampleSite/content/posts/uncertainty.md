@@ -2,7 +2,6 @@
 categories = ""
 date = 2020-01-16T14:00:00Z
 description = "In today’s world, the risk of failure is all around us and uncertainty abounds. Even when we have enticing career opportunities, we are often too afraid to take them because we don’t want to risk losing a stable income."
-draft = true
 tags = ["books"]
 thumbnail = ""
 title = "Uncertainty"
