@@ -25,7 +25,7 @@ disqusShortname = "bakari"
 	featherIconsCDN = true
 	
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	# favicon = "favicon.ico"
 
 	mode = "auto" # "dark" or "auto"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
