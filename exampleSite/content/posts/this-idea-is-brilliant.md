@@ -2,7 +2,6 @@
 categories = ""
 date = 2020-01-16T14:00:00Z
 description = "Lost, Overlooked, and Under-appreciated Scientific Concepts Everyone Should Know"
-draft = true
 tags = ["books"]
 thumbnail = ""
 title = "This idea is brilliant"
