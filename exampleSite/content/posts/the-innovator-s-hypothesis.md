@@ -2,7 +2,6 @@
 categories = ""
 date = 2020-01-15T14:00:00Z
 description = "True progress is made when people introduce new and novel ideas. Remember what life was like before the telephone was invented? Okay, probably not – but it forever changed the way people communicate."
-draft = true
 tags = ["books"]
 thumbnail = ""
 title = "The Innovator’s Hypothesis"
