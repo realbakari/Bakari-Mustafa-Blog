@@ -2,7 +2,6 @@
 categories = ""
 date = 2020-02-04T14:00:00Z
 description = "It's always a good idea to regularly check your online presence, especially before you start looking for your next job to ensure you have a positive digital footprint."
-draft = true
 tags = ["Personal Branding"]
 thumbnail = ""
 title = "Your digital footprint Matters"
