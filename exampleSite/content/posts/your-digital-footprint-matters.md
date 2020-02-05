@@ -15,13 +15,13 @@ A digital footprint is a trail of data you create while using the Internet. It i
 
 Everyone who uses the Internet has a digital footprint, so it is not something to be worried about. However, it is wise to consider what trail of data you are leaving behind.
 
-#### Managing your digital footprint?
+## Managing your digital footprint?
 
 * Be consistent and professional in what you say online
 * Be thorough – check your profile settings periodically
-* Set up and alert on your google account 
-* Protect your personal data 
-* Think before you post anything online 
+* Set up and alert on your google account
+* Protect your personal data
+* Think before you post anything online
 * Developing a clear digital footprint
 
 Here’s a short video on why you should care about managing your digital footprint.
