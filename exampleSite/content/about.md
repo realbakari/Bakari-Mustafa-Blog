@@ -1,7 +1,11 @@
 ---
 title: about
-date: 2019-04-19T16:07:58.000+00:00
+date: 
 type: page
 
 ---
-Technologist.
+![](/uploads/MY3-IF7__400x400 copy-1.png)
+
+On a mission to uplift and inspire people and to provide an opportunity to the go-getter, passionate about building the future of Africa and a bunch of other interesting stuff.  
+  
+Interested in working together? Reach me at [bakari@mentorsoutreach.org](mailto:mentorsoutreach)
