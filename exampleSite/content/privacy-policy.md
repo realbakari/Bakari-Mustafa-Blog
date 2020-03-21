@@ -1,12 +1,13 @@
 +++
 authors = ["Bakari Mustafa"]
+description = ""
 excerpt = ""
 hero = ""
 timeToRead = 6
 title = "Privacy Policy"
 
 +++
-Effective date: January 11, 2020
+Last Updated: March 19, 2020
 
 Bakari Mustafa (“us”, “we”, or “our”) operates the Blog website at [https://www.bakarimustafa.com/](https://www.bakarimustafa.com/ "Bakari Mustafa") (hereinafter referred to as the “Service”).
 
@@ -74,7 +75,7 @@ Bakari Mustafa will take all the steps reasonably necessary to ensure that your 
 Bakari Mustafa  may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 * To comply with a legal obligation
-* To protect and defend the rights or property of Bakari Mustafa 
+* To protect and defend the rights or property of Bakari Mustafa
 * To prevent or investigate possible wrongdoing in connection with the Service
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
