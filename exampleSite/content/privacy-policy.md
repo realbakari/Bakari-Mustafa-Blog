@@ -9,7 +9,7 @@ title = "Privacy Policy"
 +++
 Last Updated: March 19, 2020
 
-Bakari Mustafa (“us”, “we”, or “our”) operates the Blog website at [https://www.bakarimustafa.com/](https://www.bakarimustafa.com/ "Bakari Mustafa") (hereinafter referred to as the “Service”).
+Bakari Mustafa (“us”, “we”, or “our”) operates the Blog website at [https://blog.bakarimustafa.com/](https://blog.bakarimustafa.com/ "Bakari Mustafa | Blog") (hereinafter referred to as the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
