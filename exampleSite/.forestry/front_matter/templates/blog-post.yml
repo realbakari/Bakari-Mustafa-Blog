@@ -30,6 +30,7 @@ fields:
   label: Thumbnail
 pages:
 - exampleSite/content/posts/data-structure-basics.md
+- exampleSite/content/posts/holiday-books-2019.md
 - exampleSite/content/posts/steve-jobs-2005-stanford-commencement-address.md
 - exampleSite/content/posts/the-innovator-s-hypothesis.md
 - exampleSite/content/posts/this-idea-is-brilliant.md
