@@ -5,6 +5,8 @@ tags:
 - Books
 
 ---
+![Thought Catalog @Unsplash](/uploads/photo-1512045482940-f37f5216f639.jpeg)
+
 I write because I read. This is a list of book that covers a broad range of insight and ideas. some of these have a big impact on how I think, but there are some other valuable reads that I have left out. it's fun to look back at what you've accomplished this year.
 
 For this year's Book recommendation list, I choose five titles I think you'll enjoy reading. if you only have to read one or two books, I highly recommend you pick on the below list - They are listed in no particular order.
